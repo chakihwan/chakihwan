@@ -1,5 +1,5 @@
 ## 👋 About Me
-- 📂 **Portfolio:** [노션 포트폴리오 보러가기]([여기에_노션_링크_붙여넣기](https://jewel-prawn-5fa.notion.site/2bec4a8084ab801daca9c847f822f3cb?source=copy_link))
+- 📂 **Portfolio:** [노션 포트폴리오 보러가기](https://jewel-prawn-5fa.notion.site/2bec4a8084ab801daca9c847f822f3cb?source=copy_link)
 - 📧 **Contact:** rlghks0720@gmail.com##
 
 <!--
