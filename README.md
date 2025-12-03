@@ -1,6 +1,6 @@
 ## 👋 About Me
 - 📂 **Portfolio:** [노션 포트폴리오 보러가기](https://jewel-prawn-5fa.notion.site/2bec4a8084ab801daca9c847f822f3cb?source=copy_link)
-- 📧 **Contact:** rlghks0720@gmail.com##
+- 📧 **Contact:** rlghks0720@gmail.com
 
 <!--
 **chakihwan/chakihwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
